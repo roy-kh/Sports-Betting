@@ -15,6 +15,7 @@ import os
 import requests
 import time
 
+# Adjusting basketball_ref_scraper variables to make it easier to work with
 
 class Dataset:
     def __init__(self, team, year):
