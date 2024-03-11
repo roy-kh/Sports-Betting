@@ -6,6 +6,7 @@ NBA Sports Betting is a project focused on predicting NBA playoff outcomes throu
 **<h3>Key Features</h3>**
 - Data Source: We have gathered data from the Basketball Reference website, covering team and player statistics spanning from 2002 to 2022. Data used can be found in basketball_ref_scraper, data and other_scrapers folders. 
 - Predictive Models: We have developed and fine-tuned three models (models.ipynb) using Scikit-Learn and TensorFlow frameworks:
+  - Linear Regression
   - kNN (k-Nearest Neighbors)
   - Random Forest Regressor
   - Neural Networks
