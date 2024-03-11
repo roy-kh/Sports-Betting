@@ -10,8 +10,14 @@ NBA Sports Betting is a project focused on predicting NBA playoff outcomes throu
   - kNN (k-Nearest Neighbors)
   - Random Forest Regressor
   - Neural Networks
-- models.ipynb and jq_models.ipynb ran these models on different datasets, focusing on different variables while testing for the most accurate model.
 - Betting Strategies: In addition to our models, we employ advanced betting strategies such as line shopping and the Kelly Criterion for optimization.
+
+**<h3>Understanding the Repository</h3>**
+- As previously mentioned, the data used can be found in basketball_ref_scraper, data and other_scrapers folders.
+- basketball_ref_scraper_ preprocess.py and the models folder then preprocesses the imported data, preparing it for further analysis and modeling.
+- initial_data_analysis.ipynb is where we conducted basic analysis of the data, familiarizing ourselves with the imported datasets and their variables.
+- Finally, models.ipynb and jq_models.ipynb ran these models on different datasets, focusing on different variables while testing for the most accurate model.
+- The resources folder includes PDFs which we had used to familiarize ourselves with the topic and investigate how to potentially approach the topic.
 
 Requirements.txt: use the following to install the env:
 python3 -m venv env
