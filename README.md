@@ -1,7 +1,7 @@
 # Welcome to NBA Sports Betting project repository! 🏀
 
 **<h3>Overview</h3>**
-NBA Sports Betting is a project focused on predicting NBA playoff outcomes through the application of machine learning techniques and data analysis. Our goal is to provide insights and predictions to enhance your sports betting experience. Our overall findings are summarized in the "NBA Betting_A QuantSC Project Overview.pptx" powerpoint.
+NBA Sports Betting is a project focused on predicting NBA playoff outcomes through the application of machine learning techniques and data analysis. Our goal is to provide insights and predictions to enhance your sports betting experience. Our overall findings are summarized in the "NBA Betting_A QuantSC Project Overview.pdf" powerpoint.
 
 **<h3>Key Features</h3>**
 - Data Source: We have gathered data from the Basketball Reference website, covering team and player statistics spanning from 2002 to 2022. Data used can be found in basketball_ref_scraper, data and other_scrapers folders. 
